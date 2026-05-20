@@ -1,0 +1,53 @@
+indicator,org_id,orgname,orgsort,rate,cases,key1,key2,outbreak,percentbefore,percentafter,emon_numhhevents,emon_estnumhhopp_denom,emon_perctcomp,emon_flag,percent
+Antibiotic-Resistant Bloodstream Infections,-354,Ontario,0,0.0252633529100926,72,2023Q1,"Apr 01-Jun 30, 2023",,,,,,,,
+Antibiotic-Resistant Bloodstream Infections,-354,Ontario,0,0.0295239965625099,79,2023Q2,"Jul 01-Sep 30, 2023",,,,,,,,
+Antibiotic-Resistant Bloodstream Infections,-354,Ontario,0,0.0425428664446025,118,2023Q3,"Oct 01-Dec 31, 2023",,,,,,,,
+Antibiotic-Resistant Bloodstream Infections,-354,Ontario,0,0.0377907972322965,96,2023Q4,"Jan 01-Mar 31, 2024",,,,,,,,
+Antibiotic-Resistant Bloodstream Infections,-354,Ontario,0,0.0370714196345685,108,2024Q1,"Apr 01-Jun 30, 2024",,,,,,,,
+Antibiotic-Resistant Bloodstream Infections,-354,Ontario,0,0.0331277370757517,100,2024Q2,"Jul 01-Sep 30, 2024",,,,,,,,
+Antibiotic-Resistant Bloodstream Infections,-354,Ontario,0,0.0293583404818693,89,2024Q3,"Oct 01-Dec 31, 2024",,,,,,,,
+Antibiotic-Resistant Bloodstream Infections,-354,Ontario,0,0.0406429108852542,122,2024Q4,"Jan 01-Mar 31, 2025",,,,,,,,
+Antibiotic-Resistant Bloodstream Infections,-354,Ontario,0,0.0384281601557621,120,2025Q1,"Apr 01-Jun 30, 2025",,,,,,,,
+Antibiotic-Resistant Bloodstream Infections,-354,Ontario,0,0.0356632818109373,113,2025Q2,"Jul 01-Sep 30, 2025",,,,,,,,
+Antibiotic-Resistant Bloodstream Infections,-354,Ontario,0,0.0322227649967971,100,2025Q3,"Oct 01-Dec 31, 2025",,,,,,,,
+Antibiotic-Resistant Bloodstream Infections,-354,Ontario,0,0.0296212864344081,82,2025Q4,"Jan 01-Mar 31, 2026",,,,,,,,
+C. difficile Infections,-354,Ontario,0,0.1754191562581740,505,2023Q1,"Apr 01-Jun 30, 2023",,,,,,,,
+C. difficile Infections,-354,Ontario,0,0.2022811302449420,579,2023Q2,"Jul 01-Sep 30, 2023",,,,,,,,
+C. difficile Infections,-354,Ontario,0,0.2130537485441330,585,2023Q3,"Oct 01-Dec 31, 2023",,,,,,,,
+C. difficile Infections,-354,Ontario,0,0.2110094728947600,590,2023Q4,"Jan 01-Mar 31, 2024",,,,,,,,
+C. difficile Infections,-354,Ontario,0,0.2059446119568120,596,2024Q1,"Apr 01-Jun 30, 2024",,,,,,,,
+C. difficile Infections,-354,Ontario,0,0.1973137947048460,591,2024Q2,"Jul 01-Sep 30, 2024",,,,,,,,
+C. difficile Infections,-354,Ontario,0,0.1794913394599270,541,2024Q3,"Oct 01-Dec 31, 2024",,,,,,,,
+C. difficile Infections,-354,Ontario,0,0.1747119196446830,517,2024Q4,"Jan 01-Mar 31, 2025",,,,,,,,
+C. difficile Infections,-354,Ontario,0,0.1644495862198010,486,2025Q1,"Apr 01-Jun 30, 2025",,,,,,,,
+C. difficile Infections,-354,Ontario,0,0.1966367356232030,608,2025Q2,"Jul 01-Sep 30, 2025",,,,,,,,
+C. difficile Infections,-354,Ontario,0,0.1892061193726370,576,2025Q3,"Oct 01-Dec 31, 2025",,,,,,,,
+C. difficile Infections,-354,Ontario,0,0.1815731674235860,498,2025Q4,"Jan 01-Mar 31, 2026",,,,,,,,
+Hand Hygiene (Before Contact),-354,Ontario,0,,,2012,2012/13,,85.594097764953,91.222313127557,,,NDA,,
+Hand Hygiene (Before Contact),-354,Ontario,0,,,2013,2013/14,,86.243506743609,91.201641432008,,,NDA,,
+Hand Hygiene (Before Contact),-354,Ontario,0,,,2014,2014/15,,87.520514042193,91.582637813613,,,NDA,,
+Hand Hygiene (Before Contact),-354,Ontario,0,,,2015,2015/16,,87.315179055887,91.229033681159,,,NDA,,
+Hand Hygiene (Before Contact),-354,Ontario,0,,,2016,2016/17,,88.549178492919,92.257079860315,,,NDA,,
+Hand Hygiene (Before Contact),-354,Ontario,0,,,2017,2017/18,,88.193603162512,91.605965702489,,,NDA,,
+Hand Hygiene (Before Contact),-354,Ontario,0,,,2018,2018/19,,88.968529510584,92.336363498399,,,NDA,,
+Hand Hygiene (Before Contact),-354,Ontario,0,,,2019,2019/20,,85.670900486978,89.039539761895,,,NDA,,
+Hand Hygiene (Before Contact),-354,Ontario,0,,,2020,2020/21,,88.480120562032,92.798286803277,,,NDA,,
+Hand Hygiene (Before Contact),-354,Ontario,0,,,2021,2021/22,,88.217257006290,92.560103851147,,,NDA,,
+Hand Hygiene (Before Contact),-354,Ontario,0,,,2022,2022/23,,87.283845637718,91.671306707191,,,NDA,,
+Hand Hygiene (Before Contact),-354,Ontario,0,,,2023,2023/24,,85.764282498252,90.503225030446,,,NDA,,
+Hand Hygiene (Before Contact),-354,Ontario,0,,,2024,2024/25,,86.062042950000,92.374798570000,,,NDA,,
+Hand Hygiene (Before Contact),-354,Ontario,0,,,2025,2025/26,,85.021080940000,88.674026420000,,,NDA,,
+Surgical Safety Checklist,-354,Ontario,0,,427700,2019B1,"January-June, 2019",,,,,,,,98.867999547000
+Surgical Safety Checklist,-354,Ontario,0,,434783,2019B2,"July-December, 2019",,,,,,,,99.347861355000
+Surgical Safety Checklist,-354,Ontario,0,,286799,2020B1,"January-June, 2020",,,,,,,,99.088575407000
+Surgical Safety Checklist,-354,Ontario,0,,367389,2020B2,"July-December, 2020",,,,,,,,98.844790671000
+Surgical Safety Checklist,-354,Ontario,0,,377123,2021B1,"January-June, 2021",,,,,,,,98.505657656905
+Surgical Safety Checklist,-354,Ontario,0,,406285,2021B2,"July-December, 2021",,,,,,,,98.356706925894
+Surgical Safety Checklist,-354,Ontario,0,,388748,2022B1,"January-June, 2022",,,,,,,,98.680279326915
+Surgical Safety Checklist,-354,Ontario,0,,413638,2022B2,"July-December, 2022",,,,,,,,99.250411505847
+Surgical Safety Checklist,-354,Ontario,0,,452762,2023B1,"January-June, 2023",,,,,,,,99.246383165278
+Surgical Safety Checklist,-354,Ontario,0,,421899,2023B2,July-December 2023,,,,,,,,99.677977233959
+Surgical Safety Checklist,-354,Ontario,0,,41273,2024B1,"January-June, 2024",,,,,,,,99.410000000000
+Surgical Safety Checklist,-354,Ontario,0,,64295,2024B2,"July-December, 2024",,,,,,,,99.498599480000
+Surgical Safety Checklist,-354,Ontario,0,,64719,2025B1,"January-June, 2025",,,,,,,,99.541658340000
+Surgical Safety Checklist,-354,Ontario,0,,59499,2025B2,"July-December, 2025",,,,,,,,99.579916320000
