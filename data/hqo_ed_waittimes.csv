@@ -1,0 +1,168 @@
+hospital_name,admitted_patients,high_urgency_patients_not_admitted
+Alexandra Marine and General Hospital,8.3,3.8
+Almonte General Hospital,7.1,4.0
+Anson General Hospital,9.0,3.8
+Arnprior Regional Health,8.6,4.7
+Atikokan General Hospital,5.8,2.0
+Bingham Memorial Hospital,11.0,3.6
+Bluewater Health - Sarnia General Site,9.2,3.3
+Bluewater Health-Charlotte Eleanor Englehart (Petrolia),5.6,2.1
+Brant Community Healthcare Sys-Brantford,17.1,5.7
+Brightshores Health System-Lions Head Site,7.3,3.1
+Brightshores Health System-Markdale Site,11.6,2.9
+Brightshores Health System-Meaford Site,13.0,2.6
+Brightshores Health System-Owen Sound,18.6,4.2
+Brightshores Health System-Southampton Site,17.2,3.3
+Brightshores Health System-Wiarton Site,17.5,3.2
+Brockville General Hospital,14.1,5.3
+Cambridge Memorial Hospital,24.7,5.7
+Campbellford Memorial Hospital,27.5,4.3
+Carleton Place And District Memorial Hospital,8.5,3.8
+Centre For Addiction And Mental Health,23.2,5.1
+Chatham-Kent Health Alliance-Chatham,15.3,4.8
+Chatham-Kent Health Alliance-Wallaceburg,7.6,3.3
+Children's Hospital Of Eastern Ontario,14.4,5.3
+Collingwood General And Marine Hospital,9.0,3.5
+Cornwall Community Hospital,8.6,5.2
+Deep River And District Hospital,5.7,2.7
+Dryden Regional Health Centre,5.0,3.6
+Erie Shores Healthcare,10.3,4.3
+Espanola General Hospital,6.7,3.0
+Four Counties Health Services Corporation,4.6,2.8
+Georgian Bay General Hosp-Midland Site,19.8,5.0
+Geraldton District Hospital,,5.0
+Glengarry Memorial Hospital,12.0,3.0
+Groves Memorial Community Hospital,9.4,5.0
+Guelph General Hospital,12.4,4.4
+Haldimand War Memorial Hospital,6.7,2.8
+Haliburton Highlands Health Services Corp - Haliburton,57.7,4.1
+Halton Healthcare Services Corp-Georgetown,12.7,3.7
+Halton Healthcare Services Corp-Milton,9.2,3.7
+Halton Healthcare Services Corp-Oakville,12.6,4.2
+Hamilton Health Sciences Corp-General,18.0,6.2
+Hamilton Health Sciences Corp-Juravinski,22.2,7.1
+Hamilton Health Sciences Corp-McMaster,12.3,4.1
+Hamilton Health Sciences Corp-West Lincoln,14.0,4.8
+Hanover And District Hospital,7.8,3.8
+Hawkesbury And District General Hospital,14.3,5.4
+Headwaters Health Care Centre-Dufferin,8.5,4.3
+Health Sciences North-Laurentian,18.6,5.7
+Hopital Montfort,16.0,8.3
+Hopital Notre Dame Hospital (Hearst),13.0,3.7
+Hospital for Sick Children (The),7.9,4.9
+Humber River Health-Wilson Site,13.1,4.3
+Huron Perth Healthcare Alliance-Clinton,7.6,2.5
+Huron Perth Healthcare Alliance-Seaforth,7.2,2.5
+Huron Perth Healthcare Alliance-St. Marys,6.1,2.9
+Huron Perth Healthcare Alliance-Stratford,8.1,3.9
+Joseph Brant Hospital,13.2,4.0
+Kemptville District Hospital,12.1,4.6
+Kingston Health Sciences Centre-Hotel Dieu,,3.3
+Kingston Health Sciences Centre-Kingston General,14.1,6.0
+Lady Dunn Health Centre,14.7,4.0
+Lake-of-the-Woods District Hospital,25.4,5.1
+Lakeridge Health-Ajax Site,18.1,5.2
+Lakeridge Health-Bowmanville Site,11.0,3.0
+Lakeridge Health-Oshawa Site,19.8,4.0
+Lakeridge Health-Port Perry Site,13.0,3.1
+Lennox and Addington County Gen Hospital,9.7,4.4
+Listowel Memorial Hospital,6.2,3.5
+London Hlth Sciences Ctr-University Hosp,14.6,6.4
+London Hlth Sciences Ctr-Victoria Hosp,11.4,4.8
+Mackenzie Health-Cortellucci Vaughan Hosp,21.1,3.7
+Mackenzie Health-Jane Street Site,,1.3
+Mackenzie Health-Richmond Hill Hospital,19.5,3.2
+Manitoulin Health Centre - Little Current,7.0,4.0
+Manitoulin Health Centre - Mindemoya Unit,7.0,2.9
+Manitouwadge General Hospital,7.6,2.9
+Mattawa General Hospital,6.9,3.0
+McCausland Hospital,6.6,3.7
+Muskoka Algonquin Healthcare-Bracebridge,12.3,3.7
+Muskoka Algonquin Healthcare-Huntsville,16.0,3.7
+Niagara Health System-Fort Erie Douglas Site,,2.5
+Niagara Health System-Greater Niagara,33.7,5.1
+Niagara Health System-Port Colborne Site,,2.2
+Niagara Health System-St Catharines Gen,23.9,5.4
+Niagara Health System-Welland County,38.0,5.5
+Nipigon District Memorial Hospital,7.3,4.5
+Norfolk General Hospital,14.1,4.0
+North Bay Regional Health Centre,15.0,5.8
+North Shore Health Network - Blind River Site,7.2,3.7
+North Shore Health Network - Richards Landing,,3.5
+North Shore Health Network - Thessalon Site,,2.7
+North Wellington Health Care - Mount Forest,9.3,3.6
+North Wellington Health Care - Palmerston,6.7,2.3
+North York General Hospital,13.9,3.9
+Northumberland Hills Hospital,20.0,5.2
+Oak Valley Health-Markham Stouffville Hospital,20.6,3.9
+Oak Valley Health-Uxbridge Hospital,11.4,3.8
+Ontario,17.2,4.5
+Orillia Soldiers' Memorial Hospital,10.4,4.1
+Ottawa Hospital (The)-Civic Site,18.5,6.5
+Ottawa Hospital (The)-General Site,17.9,7.3
+Pembroke Regional Hospital Inc.,13.2,5.6
+Perth & Smiths Falls Dist-Smiths Falls Site,19.7,5.4
+Perth And Smiths Falls District Hospital - Perth Site,18.5,4.1
+Peterborough Regional Health Centre,22.0,5.1
+Queensway-Carleton Hospital,20.0,6.7
+Quinte Health - Bancroft,17.1,4.6
+Quinte Health - Belleville,16.9,5.9
+Quinte Health - Picton,6.7,2.9
+Quinte Health - Trenton,22.3,4.5
+Renfrew Victoria Hospital,6.2,3.6
+Riverside Health Care Facilities Inc. - La Verendrye,6.4,3.4
+Riverside Health Care Facilities Inc. - Rainy River,13.6,4.0
+Ross Memorial Hospital,24.0,4.4
+Royal Victoria Regional Health Centre,18.2,4.6
+Rural Road Health Services-Alexandra,7.2,3.2
+Rural Road Health Services-Tillsonburg,20.6,3.5
+Sault Area Hospital-Sault Ste. Marie,22.5,5.2
+Scarborough Health Network-Birchmount Site,17.5,3.6
+Scarborough Health Network-Centenary Site,16.8,3.5
+Scarborough Health Network-Scar.Gen.Site,16.1,4.3
+Sensenbrenner Hospital,6.9,3.3
+Services De Sante De Chapleau Health Services,10.6,3.4
+Sinai Health System-Mount Sinai Site,20.0,4.8
+Sioux Lookout Meno-Ya-Win Health Centre - Cntr,7.8,5.5
+Smooth Rock Falls Hospital,5.1,
+South Bruce Grey Health Centre-Chesley,4.3,1.8
+South Bruce Grey Health Centre-Durham,,1.6
+South Bruce Grey Health Centre-Kincardine,9.0,3.6
+South Bruce Grey Health Centre-Walkerton,8.8,3.1
+South Huron Hospital,6.7,3.4
+Southlake Regional Health Centre,22.4,3.5
+St. Francis Memorial Hospital,11.9,3.0
+St. Joseph's General Hospital,8.4,3.3
+St. Joseph's Health Care System-Hamilton,16.2,4.4
+"St. Joseph's Health Care, London",3.1,2.6
+St. Thomas-Elgin General Hospital,5.3,3.4
+Stevenson Memorial Hospital Alliston,15.0,4.1
+Strathroy Middlesex General Hospital,15.5,3.1
+Sunnybrook Health Sciences Centre,14.3,7.3
+Temiskaming Hospital,5.5,3.9
+The Lady Minto Hospital,8.4,4.3
+The Red Lake Margaret Cochenour Memorial Hospital,7.9,4.3
+Thunder Bay Regional Hlth Sciences Ctr,16.4,4.7
+Timmins and District Hospital,12.8,4.5
+Tor. East Hlth Ntwrk-Michael Garron Hosp,16.2,4.2
+Trillium Health Partners-Credit Valley,33.5,5.5
+Trillium Health Partners-Mississauga,19.4,4.4
+Trillium Health Partners-Queensway Hlth,,2.5
+Unity Health Toronto - St. Joseph's,22.9,4.4
+Unity Health Toronto-St. Michael's,14.2,5.5
+University Health Network-General Site,18.4,6.1
+University Health Network-Western Site,18.4,5.5
+WRHN-Midtown,14.9,5.2
+WRHN-Queen's Boulvard,15.4,4.9
+West Haldimand General Hospital,8.2,2.7
+West Nipissing General Hospital,8.8,3.6
+West Parry Sound Health Centre,11.4,4.7
+William Osler Health System-Civic Site,25.2,4.5
+William Osler Health System-Etobicoke Site,19.9,4.5
+William Osler Health System-Peel Memorial,,3.2
+Wilson Memorial General Hospital,4.8,3.0
+Winchester District Memorial Hospital,10.2,4.9
+Windsor Regional Hospital - Ouellette Campus,17.2,5.9
+Windsor Regional Hospital-Metropolitan Campus,19.1,6.2
+Wingham And District Hospital,5.6,2.5
+Woodstock Hospital,8.4,3.7
